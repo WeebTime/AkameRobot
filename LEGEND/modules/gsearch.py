@@ -44,7 +44,7 @@ async def gsearch(q_event):
 file_help = os.path.basename(__file__)
 file_help = file_help.replace(".py", "")
 file_helpo = file_help.replace("_", " ")
-__mod_name__="Google"
+__mod_name__="Google🔎"
 __help__="""
  - /gs
 """
