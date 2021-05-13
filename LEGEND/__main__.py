@@ -65,12 +65,10 @@ from LEGEND.modules.helper_funcs.misc import paginate_modules
 from LEGEND.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """                   
-Hello there, I'm Akame!
+Hello there, I'm [Akame](https://telegra.ph/file/35b65f860f341c69b5f07.jpg)!
 I am An Anime Themed Group Managing Bot and I will help in Managing your Group.\n
 
 ✪Make sure you read *INFO* Section Below✪ \n
-
-SUPPORT GROUP - [JOIN HERE](t.me/INDIAN_OTAKUS)
 """
               
 buttons = [
